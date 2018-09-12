@@ -9,4 +9,6 @@ Day 02:
   ft_print_combn.py,
   ft_print_numbers.py,
   ft_print_reverse_alphabet.py,
-  ft_putnbr.py,
+  ft_putnbr.py
+  
+Day 03:
