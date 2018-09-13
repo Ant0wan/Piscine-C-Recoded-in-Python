@@ -45,3 +45,5 @@ The following has been recoded in their respective files:
   3. ft_strstr.py,<br />
   4. ft_strcmp.py,<br />
   5. ft_strncmp.py,<br />
+  6. ft_strupcase.py,<br />
+  7. ft_strlowcase.py,<br />
