@@ -1,6 +1,11 @@
 # piscinePython
 ###<| **Piscine 42 recoded with Python3** |> by /-\n+0w@n
 
+As the subjects were initially made for C programming language, some exercises will be missing because they are deemed to be pointless recoded in python.<br />
+For instance, C pointers exercises have been recoded and arranged in order to master new concepts (*concerning the python3 programming language*) or have either not been recoded at all. 
+
+The following has been recoded in their respective files:
+
 #### Day 02:
   1. ft_is_negative.py,<br />
   2. ft_print_alphabet.py,<br />
@@ -35,3 +40,6 @@
   10. ft_eight_queens_puzzle_2.py(*missing*)<br />
 
 #### Day 05:
+  1. ft_strcpy.py,<br />
+  2. ft_strncpy.py,<br />
+  3.
