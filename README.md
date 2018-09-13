@@ -42,4 +42,6 @@ The following has been recoded in their respective files:
 #### Day 05:
   1. ft_strcpy.py,<br />
   2. ft_strncpy.py,<br />
-  3.
+  3. ft_strstr.py,<br />
+  4. ft_strcmp.py,<br />
+  5. ft_strncmp.py,<br />
