@@ -12,3 +12,16 @@ Day 02:
   ft_putnbr.py
   
 Day 03:
+  ft_ft,
+  ft_swap,
+  ft_div_mod,
+  ft_ultimate_div_mod,
+  ft_putstr,
+  ft_strlen,
+  ft_strrev,
+  ft_atoi,
+  ft_sort_integer_table
+
+Day 04:
+  ft_iterative_factorial,
+  
