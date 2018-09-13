@@ -14,7 +14,7 @@ The following has been recoded in their respective files:
   5. ft_print_comb2.py,<br />
   6. ft_print_numbers.py,<br />
   7. ft_putnbr.py,<br />
-  8. ft_print_combn.py(*missing or draft*),<br />
+  8. ft_print_combn.py(*missing*),<br />
 
 #### Day 03:
   1. ft_ft.py,<br />
@@ -47,3 +47,19 @@ The following has been recoded in their respective files:
   5. ft_strncmp.py,<br />
   6. ft_strupcase.py,<br />
   7. ft_strlowcase.py,<br />
+  8. ft_strcapitalize.py(*missing*),<br />
+  9. ft_str_is_alpha.py(*missing*),<br />
+  10. ft_str_is_numeric.py(*missing*),<br />
+  11. ft_str_is_lowercase.py(*missing*),<br />
+  12. ft_str_is_uppercase.py(*missing*),<br />
+  13. ft_str_is_printable.py(*missing*),<br />
+  14. ft_strcat.py,<br />
+  15. ft_strncat.py,<br />
+  16. ft_putnbr_base.py(*missing*),<br />
+  17. ft_atoi_base.py(*missing*),<br />
+  18. ft_putstr_non_printable.py(*missing*),<br />
+  19. ft_print_memory(*missing*)<br />
+  
+
+
+
