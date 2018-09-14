@@ -1,19 +1,21 @@
 #!/usr/bin/env python
 
 def base_check(base):
-    if base == '':
-        return 0
-    i = 0
-    p = 0
-    while base[i:]:
-        if base[i] == '+' or base[i] == '-':
-            p = 1
-        i += 1
-    elif i == 1 or p == 1:
-        return 0
-
-
-def ft_putnbr_base(nbr, base):
-    if base_check(base) == 0:
+    try:
+        assert base != ''
+        i = 0
+        while base[i:]:
+            assert base[i] != '+'
+            assert base[i] != '-'
+            i += 1
+        assert i > 1
+    except (AssertionError, ValueError, TypeError, AttributeError):
         return 0
     else:
+        return 1
+
+def ft_putnbr_base(nbr, base):
+    if base_check(base):
+        #code here
+    else:
+        return 0
