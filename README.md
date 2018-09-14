@@ -50,8 +50,8 @@ The following has been recoded in their respective files:
   8. ft_strcapitalize.py,<br />
   9. ft_str_is_alpha.py,<br />
   10. ft_str_is_numeric.py,<br />
-  11. ft_str_is_lowercase.py(*missing*),<br />
-  12. ft_str_is_uppercase.py(*missing*),<br />
+  11. ft_str_is_lowercase.py,<br />
+  12. ft_str_is_uppercase.py),<br />
   13. ft_str_is_printable.py(*missing*),<br />
   14. ft_strcat.py,<br />
   15. ft_strncat.py,<br />
