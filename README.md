@@ -1,5 +1,5 @@
 # piscinePython
-###<| **Piscine 42 recoded with Python3** |> by /-\n+0w@n
+### <| Piscine 42 recoded with Python3 |> by /-\n+0w@n
 
 As the subjects were initially made for C programming language, some exercises will be missing because they are deemed to be pointless recoded in python.<br />
 For instance, C pointers exercises have been recoded and arranged in order to master new concepts (*concerning the python3 programming language*) or have either not been recoded at all. 
