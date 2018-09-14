@@ -47,9 +47,9 @@ The following has been recoded in their respective files:
   5. ft_strncmp.py,<br />
   6. ft_strupcase.py,<br />
   7. ft_strlowcase.py,<br />
-  8. ft_strcapitalize.py(*missing*),<br />
-  9. ft_str_is_alpha.py(*missing*),<br />
-  10. ft_str_is_numeric.py(*missing*),<br />
+  8. ft_strcapitalize.py,<br />
+  9. ft_str_is_alpha.py,<br />
+  10. ft_str_is_numeric.py,<br />
   11. ft_str_is_lowercase.py(*missing*),<br />
   12. ft_str_is_uppercase.py(*missing*),<br />
   13. ft_str_is_printable.py(*missing*),<br />
