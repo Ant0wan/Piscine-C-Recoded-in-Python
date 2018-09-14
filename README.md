@@ -52,7 +52,7 @@ The following has been recoded in their respective files:
   10. ft_str_is_numeric.py,<br />
   11. ft_str_is_lowercase.py,<br />
   12. ft_str_is_uppercase.py),<br />
-  13. ft_str_is_printable.py(*missing*),<br />
+  13. ft_str_is_printable.py,<br />
   14. ft_strcat.py,<br />
   15. ft_strncat.py,<br />
   16. ft_putnbr_base.py(*missing*),<br />
