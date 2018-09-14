@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 
 def ft_str_is_numeric(str):
+    if str == '':
+        return 1
     try:
         if int(str):
             return 1
