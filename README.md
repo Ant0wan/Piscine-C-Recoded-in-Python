@@ -56,7 +56,7 @@ The following has been recoded in their respective files:
   14. ft_strcat.py,<br />
   15. ft_strncat.py,<br />
   16. ft_putnbr_base.py,<br />
-  17. ft_atoi_base.py(*missing*),<br />
+  17. ft_atoi_base.py,<br />
   18. ft_putstr_non_printable.py(*missing*),<br />
   19. ft_print_memory(*missing*)<br />
   
