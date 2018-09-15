@@ -34,5 +34,3 @@ def ft_atoi_base(str, base):
         return number * sign
     else :
         return 0
-
-print(ft_atoi_base('', '0123456789ABCDEF'))
