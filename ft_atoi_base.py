@@ -16,7 +16,7 @@ def base_check(base):
         return 1
 
 def ft_atoi_base(str, base):
-    if base_check(base):
+    if base_check(base) and str != '':
         i = 0
         sign = 1
         number = 0
@@ -33,4 +33,6 @@ def ft_atoi_base(str, base):
             i += 1
         return number * sign
     else :
-        return None
+        return 0
+
+print(ft_atoi_base('', '0123456789ABCDEF'))
