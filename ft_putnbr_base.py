@@ -17,12 +17,20 @@ def base_check(base):
 
 def ft_putnbr_base(nbr, base):
     if base_check(base):
-        strnbr = str(nbr)
+        if isinstance(nbr, str):
+            inbr = int(nbr)
+        else:
+            inbr = nbr
         nbr_base = []
+        rest = inbr * -1 if inbr < 0 else inbr
         i = 0
-        while strnbr[i:]:
-            nbr_base.append(base[int(strnbr[i])])
+        while base[i:]:
             i += 1
-        return ''join(nbr_base)
+        while rest != 0:
+            nbr_base.insert(0, base[rest % i])
+            rest = rest // i
+        if inbr < 0:
+            nbr_base.insert(0, '-')
+        return ''.join(nbr_base)
     else:
         return 0
