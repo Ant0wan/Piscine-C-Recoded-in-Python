@@ -1,4 +1,4 @@
-# piscinePython
+﻿# piscinePython
 ### <| C Piscine at 42 recoded with Python3 |> by /-\n+0w@n
 
 As the subjects were initially made for C programming language, some exercises will be missing because they are deemed to be pointless recoded in python.<br />
@@ -58,7 +58,7 @@ The following has been recoded in their respective files:
   16. ft_putnbr_base.py,<br />
   17. ft_atoi_base.py,<br />
   18. ft_putstr_non_printable.py,<br />
-  19. ft_print_memory(*missing*)<br />
+  19. ft_print_memory(*ongoing, need of C extension for getting access to memory using addr*)<br />
   
 
 
