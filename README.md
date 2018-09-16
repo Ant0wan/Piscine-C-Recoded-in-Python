@@ -58,7 +58,7 @@ The following has been recoded in their respective files:
   16. ft_putnbr_base.py,<br />
   17. ft_atoi_base.py,<br />
   18. ft_putstr_non_printable.py,<br />
-  19. ft_print_memory(*ongoing, need of C extension for getting access to memory using addr*)<br />
+  19. ft_print_memory(*HS, need of C extension for getting access to memory using addr*)<br />
   
 
 
