@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 def ft_iterative_factorial(nb):
     if nb == 0:
         return 1

@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 def ft_strcapitalize(str):
     cp_str = []
     i = 0

@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 def ft_sort_integer_table(table, size):
     i = 1
     tmp = 0

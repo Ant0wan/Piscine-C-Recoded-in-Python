@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 def ft_sqrt(nb):
     i = 1
     if nb <= 0 or nb == 1:

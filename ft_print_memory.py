@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
   # NOT COMPLETE
   # The follwing needs a C modules to get the value stored in
@@ -44,7 +44,5 @@ def main():
     toto = pi
     print(pi.contents)
 
-main()
-
-#if __main__ == '__main__':
-#    main()
+ __name__ == '__main__':
+    main()

@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 def ft_print_comb2():
     c = ', '
     number_one = 0

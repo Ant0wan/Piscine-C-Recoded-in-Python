@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 def ft_putchar(c):
     if isinstance(c, str) and c != '':
         print(c[0], end='')

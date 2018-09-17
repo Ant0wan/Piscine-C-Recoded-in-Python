@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 def ft_recursive_power(nb, power):
     if power == 0:
         return 1

@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 def ft_strcmp(s1, s2):
     i = 0
     while s1[i:] and s2[i:]:

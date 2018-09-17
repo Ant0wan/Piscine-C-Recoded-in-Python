@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 def ft_print_comb():
     n = 3
     i = 0

@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 NON_PRINTABLE = lambda x: True if (ord(x) >= 0 and ord(x) < 32) else False
 BASE = '0123456789abcdef'
 

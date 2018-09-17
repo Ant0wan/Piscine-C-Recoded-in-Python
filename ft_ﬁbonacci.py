@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 def ft_ﬁbonacci(index):
     if index < 0:
         return -1

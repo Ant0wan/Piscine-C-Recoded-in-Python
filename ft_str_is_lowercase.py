@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 def ft_str_is_lowercase(str):
     if str == '':
         return 1

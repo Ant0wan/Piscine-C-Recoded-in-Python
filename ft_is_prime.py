@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 def ft_is_prime(nb):
     i = 2
     count = 0

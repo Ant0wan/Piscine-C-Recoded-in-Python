@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 def ft_str_is_alpha(str):
     i = 0
     while str[i:]:

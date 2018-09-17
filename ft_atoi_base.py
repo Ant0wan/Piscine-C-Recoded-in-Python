@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 def base_check(base):
     try:
         assert base != ''

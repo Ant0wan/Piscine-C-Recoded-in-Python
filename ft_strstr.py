@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 def ft_strstr(str, to_find):
     if to_find not in str:
         return

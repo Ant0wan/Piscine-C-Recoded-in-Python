@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 def ft_atoi(str):
     i = 0
     sign = 1

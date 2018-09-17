@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 def ft_strupcase(str):
     i = 0
     cp_str = []
