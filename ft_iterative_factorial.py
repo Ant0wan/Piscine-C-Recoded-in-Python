@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 def ft_iterative_factorial(nb):
     if nb == 0:

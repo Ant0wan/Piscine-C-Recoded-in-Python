@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
   # NOT COMPLETE
   # The follwing needs a C modules to get the value stored in

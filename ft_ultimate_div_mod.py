@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 def ft_ultimate_div_mod(a, b):
     tmp_a = a[0]
