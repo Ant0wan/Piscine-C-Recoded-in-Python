@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acc9cbde-82ed-4e60-9532-fe5feaf6d175" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ft_print_params.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ft_rev_params.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ft_sort_params.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +16,7 @@
     <session id="767059326">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
@@ -27,7 +27,7 @@
         <counts>
           <entry key="makefile" value="1" />
           <entry key="md" value="4" />
-          <entry key="py" value="116" />
+          <entry key="py" value="126" />
           <entry key="sh" value="2" />
         </counts>
       </usages-collector>
@@ -36,14 +36,14 @@
           <entry key="Markdown" value="4" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Perl" value="1" />
-          <entry key="Python" value="116" />
+          <entry key="Python" value="126" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="makefile" value="149" />
           <entry key="md" value="91" />
-          <entry key="py" value="1731" />
+          <entry key="py" value="1901" />
           <entry key="sh" value="17" />
         </counts>
       </usages-collector>
@@ -52,26 +52,13 @@
           <entry key="Markdown" value="91" />
           <entry key="PLAIN_TEXT" value="17" />
           <entry key="Perl" value="149" />
-          <entry key="Python" value="1731" />
+          <entry key="Python" value="1901" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="443">
-                <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -86,8 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ft_atoi_base.py" />
-        <option value="$PROJECT_DIR$/ft_putchar.py" />
         <option value="$PROJECT_DIR$/ft_div_mod.py" />
         <option value="$PROJECT_DIR$/ft_ft.py" />
         <option value="$PROJECT_DIR$/ft_is_negative.py" />
@@ -137,6 +122,8 @@
         <option value="$PROJECT_DIR$/ft_print_program_name.py" />
         <option value="$PROJECT_DIR$/ft_print_params.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/ft_rev_params.py" />
+        <option value="$PROJECT_DIR$/ft_sort_params.py" />
       </list>
     </option>
   </component>
@@ -203,7 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ft_print_params">
+  <component name="RunManager" selected="Python.ft_rev_params">
     <configuration name="ft_print_memory" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -288,14 +275,37 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ft_rev_params" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ft_rev_params.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.ft_print_memory" />
       <item itemvalue="Python.ft_putchar" />
       <item itemvalue="Python.ft_print_program_name" />
       <item itemvalue="Python.ft_print_params" />
+      <item itemvalue="Python.ft_rev_params" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ft_rev_params" />
         <item itemvalue="Python.ft_print_params" />
         <item itemvalue="Python.ft_print_program_name" />
         <item itemvalue="Python.ft_putchar" />
@@ -318,9 +328,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15230037" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15230037" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -343,20 +352,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ft_div_mod.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ft_ft.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ft_is_negative.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -455,21 +450,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ft_recursive_factorial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ft_recursive_power.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ft_sort_integer_table.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="21" selection-start-column="21" selection-end-column="21" />
@@ -532,13 +513,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ft_strcmp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ft_strcpy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -575,13 +549,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ft_strncpy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ft_strrev.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="21" selection-start-column="21" selection-end-column="21" />
@@ -674,19 +641,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ft_print_program_name.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="25" />
-          <folding>
-            <marker date="1537182630369" expanded="true" signature="63:64" ph="..." />
-            <marker date="1537182630369" expanded="true" signature="63:96" ph="..." />
-            <marker date="1537182630369" expanded="true" signature="107:108" ph="..." />
-            <marker date="1537182630369" expanded="true" signature="107:137" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ft_print_params.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -697,10 +651,73 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="443">
-            <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+          <first_editor relative-caret-position="487">
+            <caret line="63" column="17" lean-forward="true" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_recursive_factorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_strrev.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_print_program_name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="10" />
+          <folding>
+            <marker date="1537182630369" expanded="true" signature="63:64" ph="..." />
+            <marker date="1537182630369" expanded="true" signature="63:96" ph="..." />
+            <marker date="1537182630369" expanded="true" signature="107:108" ph="..." />
+            <marker date="1537182630369" expanded="true" signature="107:137" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_rev_params.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="10" lean-forward="true" selection-start-line="5" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <marker date="1537183591208" expanded="true" signature="55:175" ph="..." />
+            <marker date="1537183591208" expanded="true" signature="186:187" ph="..." />
+            <marker date="1537183591208" expanded="true" signature="186:208" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_sort_integer_table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_strcmp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_sort_params.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <marker date="1537183892201" expanded="true" signature="813:814" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
