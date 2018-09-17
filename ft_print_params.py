@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import sys
 
@@ -11,5 +11,5 @@ def ft_print_params():
 def main():
     ft_print_params()
 
-if __main__ == '__main__':
+if __name__ == '__main__':
     main()
