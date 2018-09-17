@@ -62,10 +62,10 @@ The following has been recoded in their respective files:
 
 #### Day 06:
   1. libft,<br />
-  2. ,<br />
-  3. ,<br />
-  4. ,<br />
-  5. ,<br />
+  2. ft_print_program_name.py,<br />
+  3. ft_print_params.py,<br />
+  4. ft_rev_params.py(*missing*),<br />
+  5. ft_sort_params.py(*missing*),<br />
   
 
 
