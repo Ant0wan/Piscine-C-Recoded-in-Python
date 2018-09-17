@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import sys
 
@@ -17,7 +17,7 @@ def ft_strcmp(s1, s2):
         return ord(s2[i]) * -1
     return 0
 
-def ft_sort_integer_table(table, size):
+def ft_sort_table(table, size):
     i = 1
     tmp = 0
     diff = 1
@@ -26,7 +26,7 @@ def ft_sort_integer_table(table, size):
         diff = 0
         i = 1
         while i < size:
-            if cp_table[i - 1] > cp_table[i]:
+            if ft_strcmp(cp_table[i - 1], cp_table[i]) > 0:
                 diff += 1
                 tmp = cp_table[i - 1]
                 cp_table[i - 1] = cp_table[i]
@@ -35,18 +35,16 @@ def ft_sort_integer_table(table, size):
     return cp_table
 
 def ft_sort_params():
-    i = 0
+    i = 1
+    cp_arg = []
     while sys.argv[i:]:
+        cp_arg.append(sys.argv[i])
         i += 1
-    while i > 1:
-        i -= 1
-        print(sys.argv[i], end='\n')
-
+    cp_arg = ft_sort_table(cp_arg, i - 1)
+    return '\n'.join(cp_arg)
 
 def main():
-    ft_rev_params()
+    print(ft_sort_params())
 
-main()
-
-#if __main__ == '__main__':
-#    main()
+if __name__ == '__main__':
+    main()
