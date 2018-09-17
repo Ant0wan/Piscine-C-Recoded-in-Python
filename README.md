@@ -65,8 +65,7 @@ The following has been recoded in their respective files:
   2. ft_print_program_name.py,<br />
   3. ft_print_params.py,<br />
   4. ft_rev_params.py,<br />
-  5. ft_sort_params.py(*onboing*),<br />
-  
+  5. ft_sort_params.py<br />
 
-
-
+#### Day 07:
+  1. ,<br />
