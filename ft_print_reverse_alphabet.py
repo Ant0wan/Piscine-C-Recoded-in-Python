@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 
 def ft_print_reverse_alphabet():
     c = 'z'

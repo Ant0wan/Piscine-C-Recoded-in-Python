@@ -59,6 +59,13 @@ The following has been recoded in their respective files:
   17. ft_atoi_base.py,<br />
   18. ft_putstr_non_printable.py,<br />
   19. ft_print_memory(*HS, need of C extension for getting access to memory using addr*)<br />
+
+#### Day 06:
+  1. libft,<br />
+  2. ,<br />
+  3. ,<br />
+  4. ,<br />
+  5. ,<br />
   
 
 
