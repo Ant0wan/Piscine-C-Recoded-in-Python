@@ -44,7 +44,7 @@ def main():
             else:
                 try:
                     print(funcdict[sys.argv[2]](int(sys.argv[1]), int(sys.argv[3])))
-                except (ValueError, TypeError, AttributeError):
+                except (ValueError, TypeError, AttributeError, SyntaxError):
                     return None
         else:
             return None
