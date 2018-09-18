@@ -29,10 +29,6 @@ funcdict = {
     '': ft_usage
 }
 
-class g_opptab:
-    def __int__(self):
-        self.ok = ''
-
 def main():
     i = 0
     while sys.argv[i:]:
