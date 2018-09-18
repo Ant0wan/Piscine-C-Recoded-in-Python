@@ -34,17 +34,20 @@ def main():
     while sys.argv[i:]:
         i += 1
     if i != 4:
-        return None
+        print('not') #debugging
     else:
+        print('ok')  # debugging
         if isinstance(sys.argv[1], int) and (sys.argv[2] in list(funcdict.keys())) and isinstance(sys.argv[3], int):
+            print('ok if 1')  # debugging
             if sys.argv[2] == '/' and int(sys.argv[3]) == 0:
                 print('Stop : division by zero')
             elif sys.argv[2] == '%' and int(sys.argv[3]) == 0:
                 print('Stop : modulo by zero ')
             else:
+                print('ok to return sum')  # debugging
                 print(funcdict[sys.argv[2]](int(sys.argv[1]), int(sys.argv[3])))
         else:
-            return None
+            print('not working')
 
 if __name__ == '__main__':
     main()
