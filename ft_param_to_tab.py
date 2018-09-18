@@ -23,7 +23,8 @@ class s_stock_par :
     def __init__(self, argv):
         self.size_param = ft_strlen(argv)
         self.argv = id(argv)
-        self.copy = ft_split_whitespaces(argv)
+        self.copy = argv
+        self.tab = ft_split_whitespaces(argv)
 
 def ft_param_to_tab():
     i = 0
@@ -31,5 +32,5 @@ def ft_param_to_tab():
     while sys.argv[i:]:
         tab_param.append(s_stock_par(sys.argv[i]))
         i += 1
-    tab_param.append(0)
+    tab_param.append(s_stock_par('0'))
     return tab_param

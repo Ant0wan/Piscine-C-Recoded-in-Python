@@ -75,4 +75,9 @@ The following has been recoded in their respective files:
 
 #### Day 08:
   1. ft_param_to_tab.py,<br />
-  2. 
+  2. ft_show_tab.py(*coming*)<br />
+
+#### Day 09:
+  1. ,<br />
+  2. ,<br />
+  
