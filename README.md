@@ -78,9 +78,9 @@ The following has been recoded in their respective files:
   2. ft_show_tab.py<br />
 
 #### Day 10:
-  1. ft_foreach.py,(*coming*)<br />
-  2. ft_map.py,(*coming*)<br />
-  3. ft_any.py,(*coming*)<br />
+  1. ft_foreach.py,<br />
+  2. ft_map.py,<br />
+  3. ft_any.py,<br />
   4. ft_count_if.py,(*coming*)<br />
   5. ft_is_sort.py,(*coming*)<br />
   7. do-op.py,<br />
