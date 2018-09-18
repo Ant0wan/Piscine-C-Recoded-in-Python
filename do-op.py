@@ -38,11 +38,11 @@ def main():
     else:
         if isinstance(sys.argv[1], int) and (sys.argv[2] in list(funcdict.keys())) and isinstance(sys.argv[3], int):
             if sys.argv[2] == '/' and int(sys.argv[3]) == 0:
-                return 'Stop : division by zero'
+                print('Stop : division by zero')
             elif sys.argv[2] == '%' and int(sys.argv[3]) == 0:
-                return 'Stop : modulo by zero '
+                print('Stop : modulo by zero ')
             else:
-                return funcdict[sys.argv[2]](int(sys.argv[1]), int(sys.argv[3]))
+                print(funcdict[sys.argv[2]](int(sys.argv[1]), int(sys.argv[3])))
         else:
             return None
 
