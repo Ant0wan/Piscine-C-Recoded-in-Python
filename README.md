@@ -72,3 +72,7 @@ The following has been recoded in their respective files:
   2. ft_print_words_tables.py,<br />
   3. ft_convert_base.py,<br />
   4. ft_split.py<br />
+
+#### Day 08:
+  1. ft_param_to_tab.py,<br />
+  2. 
