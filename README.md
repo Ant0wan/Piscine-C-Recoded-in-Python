@@ -85,5 +85,5 @@ The following has been recoded in their respective files:
   5. ft_is_sort.py,<br />
   7. do-op.py,<br />
   8. ft_sort_wordtab.py,<br />
-  9. ft_advanced_sort_wordtab.py(*coming*)<br />
+  9. ft_advanced_sort_wordtab.py<br />
   
