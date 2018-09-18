@@ -2,57 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5f76c1a-2d63-4c22-8db2-1b464f88f434" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ft_concat_params.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_atoi.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_atoi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_atoi_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_atoi_base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_div_mod.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_div_mod.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_ft.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_ft.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_is_negative.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_is_negative.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_is_prime.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_is_prime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_iterative_factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_iterative_factorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_iterative_power.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_iterative_power.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_print_alphabet.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_print_alphabet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_print_comb.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_print_comb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_print_comb2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_print_comb2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_print_memory.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_print_memory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_print_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_print_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_print_reverse_alphabet.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_print_reverse_alphabet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_putnbr.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_putnbr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_putnbr_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_putnbr_base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_putstr.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_putstr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_putstr_non_printable.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_putstr_non_printable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_recursive_factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_recursive_factorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_recursive_power.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_recursive_power.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_sort_integer_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_sort_integer_table.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_sqrt.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_sqrt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_str_is_alpha.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_str_is_alpha.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_str_is_lowercase.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_str_is_lowercase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_str_is_numeric.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_str_is_numeric.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_str_is_printable.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_str_is_printable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_str_is_uppercase.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_str_is_uppercase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_strcapitalize.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_strcapitalize.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_strcat.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_strcat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_strcmp.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_strcmp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_strcpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_strcpy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_strlen.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_strlen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_strlowcase.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_strlowcase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_strncat.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_strncat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_strncmp.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_strncmp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_strncpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_strncpy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_strrev.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_strrev.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_strstr.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_strstr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_strupcase.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_strupcase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_swap.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_swap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_ultimate_div_mod.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_ultimate_div_mod.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_ﬁbonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_ﬁbonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ft_ﬁnd_next_prime.py" beforeDir="false" afterPath="$PROJECT_DIR$/ft_ﬁnd_next_prime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libft/basics_libft/ft_putchar.py" beforeDir="false" afterPath="$PROJECT_DIR$/libft/basics_libft/ft_putchar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libft/basics_libft/ft_putstr.py" beforeDir="false" afterPath="$PROJECT_DIR$/libft/basics_libft/ft_putstr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libft/basics_libft/ft_strcmp.py" beforeDir="false" afterPath="$PROJECT_DIR$/libft/basics_libft/ft_strcmp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libft/basics_libft/ft_strlen.py" beforeDir="false" afterPath="$PROJECT_DIR$/libft/basics_libft/ft_strlen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libft/basics_libft/ft_swap.py" beforeDir="false" afterPath="$PROJECT_DIR$/libft/basics_libft/ft_swap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libft/optional_libft/ft_strrev.py" beforeDir="false" afterPath="$PROJECT_DIR$/libft/optional_libft/ft_strrev.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libft/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/libft/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ft_convert_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ft_print_words_tables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ft_split_whitespaces.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,37 +20,51 @@
         <counts>
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="62" />
+          <entry key="md" value="2" />
+          <entry key="py" value="73" />
           <entry key="sh" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Bash" value="1" />
+          <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="62" />
+          <entry key="Python" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="124" />
+          <entry key="md" value="44" />
+          <entry key="py" value="1211" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="124" />
+          <entry key="Markdown" value="44" />
+          <entry key="Python" value="1211" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ft_convert_base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1188">
+              <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -111,10 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ft_atoi.py" />
-        <option value="$PROJECT_DIR$/ft_atoi_base.py" />
-        <option value="$PROJECT_DIR$/ft_concat_params.py" />
-        <option value="$PROJECT_DIR$/ft_div_mod.py" />
         <option value="$PROJECT_DIR$/ft_ft.py" />
         <option value="$PROJECT_DIR$/ft_is_negative.py" />
         <option value="$PROJECT_DIR$/ft_is_prime.py" />
@@ -162,6 +126,10 @@
         <option value="$PROJECT_DIR$/libft/basics_libft/ft_swap.py" />
         <option value="$PROJECT_DIR$/libft/optional_libft/ft_strrev.py" />
         <option value="$PROJECT_DIR$/libft/setup.py" />
+        <option value="$PROJECT_DIR$/ft_split_whitespaces.py" />
+        <option value="$PROJECT_DIR$/ft_print_words_tables.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/ft_convert_base.py" />
       </list>
     </option>
   </component>
@@ -183,11 +151,6 @@
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="libft" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -207,6 +170,83 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Python.ft_convert_base">
+    <configuration name="ft_convert_base" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ft_convert_base.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ft_print_words_tables" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ft_print_words_tables.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ft_split_whitespaces" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ft_split_whitespaces.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ft_split_whitespaces" />
+      <item itemvalue="Python.ft_print_words_tables" />
+      <item itemvalue="Python.ft_convert_base" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ft_convert_base" />
+        <item itemvalue="Python.ft_print_words_tables" />
+        <item itemvalue="Python.ft_split_whitespaces" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -222,13 +262,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960339" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960339" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -246,31 +287,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ft_iterative_factorial.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ft_iterative_power.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ft_print_alphabet.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ft_print_comb.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ft_print_comb2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ft_print_numbers.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ft_print_memory.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ft_print_params.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -282,15 +298,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ft_print_reverse_alphabet.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ft_putnbr.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ft_putnbr_base.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ft_putstr.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ft_putstr_non_printable.py">
@@ -414,6 +421,69 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_putstr.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_putnbr.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_concat_params.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_atoi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_print_words_tables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <marker date="1537268741604" expanded="true" signature="408:413" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_split_whitespaces.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <marker date="1537268722755" expanded="true" signature="30:35" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="412">
+            <caret line="72" column="20" lean-forward="true" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_putnbr_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_atoi_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_convert_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
         </state>
       </provider>
     </entry>

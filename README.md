@@ -68,4 +68,7 @@ The following has been recoded in their respective files:
   5. ft_sort_params.py<br />
 
 #### Day 07:
-  1. ,<br />
+  1. ft_split_whitespaces.py,<br />
+  2. ft_print_words_tables.py,<br />
+  3. ft_convert_base.py,<br />
+  4. 
