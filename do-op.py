@@ -33,7 +33,7 @@ def main():
     i = 0
     while sys.argv[i:]:
         i += 1
-    if i != 3:
+    if i != 4:
         return None
     else:
         if isinstance(sys.argv[1], int) and (sys.argv[2] in list(funcdict.keys())) and isinstance(sys.argv[3], int):
