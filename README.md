@@ -1,4 +1,4 @@
-﻿# piscinePython
+﻿# piscine C recoded in Python 3
 ### <| C Piscine at 42 recoded with Python3 |> by /-\n+0w@n
 
 As the subjects were initially made for C programming language, some exercises will be missing because they are deemed to be pointless recoded in python.<br />
