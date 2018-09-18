@@ -16,7 +16,6 @@ The following has been recoded in their respective files:
   5. ft_print_comb2.py,<br />
   6. ft_print_numbers.py,<br />
   7. ft_putnbr.py,<br />
-  8. ft_print_combn.py(*missing*),<br />
 
 #### Day 03:
   1. ft_ft.py,<br />
@@ -38,8 +37,6 @@ The following has been recoded in their respective files:
   6. ft_sqrt.py,<br />
   7. ft_is_prime.py,<br />
   8. ft_ﬁnd_next_prime.py,<br />
-  9. ft_eight_queens_puzzle.py(*missing*),<br />
-  10. ft_eight_queens_puzzle_2.py(*missing*)<br />
 
 #### Day 05:
   1. ft_strcpy.py,<br />
