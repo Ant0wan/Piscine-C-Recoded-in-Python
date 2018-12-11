@@ -3,10 +3,10 @@
 
 Last update: 9/18/2018
 
-Description: As the subjects were initially made for C programming language, some exercises will be missing because they are deemed to be pointless recoded in python.<br />
-For instance, C pointers exercises have been recoded and arranged in order to master new concepts (*concerning the python3 programming language*) or have either not been recoded at all. 
+Description: Subjects were initially made using C the programming language. Some exercises will be missing because they are pointless recoded in python.<br />
+For instance, C pointers exercises have either been recoded and arranged in order to master new concepts (*concerning the python3 programming language*) or just not been recoded. 
 
-The following has been recoded in their respective files:
+The following has been recoded:
 
 #### Day 02:
   1. ft_is_negative.py,<br />
@@ -85,4 +85,4 @@ The following has been recoded in their respective files:
   7. do-op.py,<br />
   8. ft_sort_wordtab.py,<br />
   9. ft_advanced_do-op.py<br />
-  
+ 
