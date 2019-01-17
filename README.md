@@ -103,11 +103,22 @@ git clone https://github.com/Ant0wan/Piscine-C-Recoded-in-Python.git
 
 - Launch a program ([![attention](https://i.imgur.com/WIS0jir.jpg)](i.imgur.com/WIS0jir.jpg) only .py containing __main__ can be executed in shell without modification)
 
+```shell=
+./[script_name].py
+
+or
+
+python3 [script_name].py
+```
+
 Example:
 
 ```shell=
 > ./do-op.py 8 \* 96
 768
+
+> python3 do-op.py 4 - 8
+-4
 
 > ./ft_advanced_do-op.py 87 - 98
 -11
