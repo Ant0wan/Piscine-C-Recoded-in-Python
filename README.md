@@ -1,11 +1,15 @@
 ﻿# Piscine C recoded in Python 3 [![freetime](https://i.imgur.com/8IcDLkc.png)](i.imgur.com/8IcDLkc.png)
 
-## C Piscine at 42 recoded with Python3 |> by /-\n+0w@n
+This repository contains answers in python of many exercises of the 42 entrance examination. [spare time project]
 
-Last update: 9/18/2018
-
-Description: Subjects were initially made using C the programming language. Some exercises will be missing because they are pointless recoded in python.<br />
+The subjects were initially made using C the programming language. Some exercises will be missing because they are pointless recoded in python.<br />
 For instance, C pointers exercises have either been recoded and arranged in order to master new concepts (*concerning the python3 programming language*) or just not been recoded. 
+
+---
+
+## Content
+
+To understand each script, please refer to the original documentation of C version.
 
 The following has been recoded:
 
@@ -86,4 +90,35 @@ The following has been recoded:
   7. do-op.py,<br />
   8. ft_sort_wordtab.py,<br />
   9. ft_advanced_do-op.py<br />
- 
+
+---
+
+## Usage
+
+- Clone the repository
+
+```shell=
+git clone https://github.com/Ant0wan/Piscine-C-Recoded-in-Python.git
+```
+
+- Launch a program ([![attention](https://i.imgur.com/WIS0jir.jpg)](i.imgur.com/WIS0jir.jpg) only .py containing __main__ can be executed in shell without modification)
+
+Example:
+
+```shell=
+> ./do-op.py 8 \* 96
+768
+
+> ./ft_advanced_do-op.py 87 - 98
+-11
+
+> ./ft_sort_params.py "Hello" "World" "I" "am" "happy"
+Hello
+I
+World
+am
+happy
+
+> ./ft_print_program_name.py
+./ft_print_program_name.py
+```
