@@ -105,9 +105,9 @@ git clone https://github.com/Ant0wan/Piscine-C-Recoded-in-Python.git
 
 ```shell=
 ./[script_name].py
-
+```
 or
-
+```shell=
 python3 [script_name].py
 ```
 
