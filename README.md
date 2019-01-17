@@ -9,7 +9,7 @@ For instance, C pointers exercises have either been recoded and arranged in orde
 
 ## Content
 
-To understand each script, please refer to the original documentation of C version.
+To understand each script, please refer to the <a href="https://github.com/sebastiencs/piscine_42/tree/master/PDFs" target="_blank">original documentation of C version</a>.
 
 The following has been recoded:
 
