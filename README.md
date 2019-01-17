@@ -1,5 +1,6 @@
-﻿# piscine C recoded in Python 3
-### <| C Piscine at 42 recoded with Python3 |> by /-\n+0w@n
+﻿# Piscine C recoded in Python 3 [![freetime](https://i.imgur.com/8IcDLkc.png)](i.imgur.com/8IcDLkc.png)
+
+## C Piscine at 42 recoded with Python3 |> by /-\n+0w@n
 
 Last update: 9/18/2018
 
